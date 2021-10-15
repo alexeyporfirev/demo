@@ -10,7 +10,7 @@
 ### Header 3
 [Yandex.Ru](http://www.yandex.ru)
 
-![Image] (https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/160/365/7.jpg)
+![Image](https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/160/365/7.jpg)
 
 ```java
 public class Test() {
